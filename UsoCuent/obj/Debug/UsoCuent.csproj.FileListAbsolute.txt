@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe.config
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\bin\Debug\UsoCuent.pdb
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\obj\Debug\UsoCuent.exe
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\UsoCuent\UsoCuent\obj\Debug\UsoCuent.pdb
