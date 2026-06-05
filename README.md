@@ -1,4 +1,4 @@
-# 🏦 Bank Account Manager — UsoCuent
+# 🏦 bank-core
 
 > A C# console application demonstrating **Object-Oriented Programming** principles through a simulated banking account system with deposits, transfers, and account validation.
 
@@ -20,7 +20,7 @@
 
 ## 🎯 About the Project
 
-**Bank Account Manager** is a C# console application that simulates basic banking operations. It models real-world bank account behavior using core **Object-Oriented Programming (OOP)** concepts such as **encapsulation**, **access modifiers**, and **static methods**.
+**bank-core** is a C# console application that simulates basic banking operations. It models real-world bank account behavior using core **Object-Oriented Programming (OOP)** concepts such as **encapsulation**, **access modifiers**, and **static methods**.
 
 This project is ideal for understanding how to design and interact with classes that manage sensitive financial data securely.
 
@@ -40,7 +40,7 @@ This project is ideal for understanding how to design and interact with classes 
 ## 📁 Project Structure
 
 ```
-UsoCuent/
+bank-core/
 │
 ├── UsoCuent.sln                  # Visual Studio Solution file
 │
